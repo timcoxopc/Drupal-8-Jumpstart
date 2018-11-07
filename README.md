@@ -3,5 +3,7 @@ This is a customised version of https://github.com/drupal-composer/drupal-projec
 
 It adds the following modules:
 * CTools
+* Admin Toolbar
 * Devel (--dev)
+
 
