@@ -2,6 +2,6 @@
 This is a customised version of https://github.com/drupal-composer/drupal-project used to jumpstart Drupal 8 projects.
 
 It adds the following modules:
-*CTools
-*Devel (--dev)
+* CTools
+* Devel (--dev)
 
