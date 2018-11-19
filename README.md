@@ -5,5 +5,8 @@ It adds the following modules:
 * CTools
 * Admin Toolbar
 * Devel (--dev)
-
+* Metatag
+* Token
+* Pathauto
+* Paragraphs
 
