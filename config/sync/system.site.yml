@@ -1,0 +1,14 @@
+uuid: 770ca72c-cbe7-4de6-b0e2-e8b2af0e01c2
+name: 'Drupal 8 Template'
+mail: ebusiness@opc.com.au
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
