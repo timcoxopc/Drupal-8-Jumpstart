@@ -5,6 +5,19 @@ commands:
   # Install site
   - command: site:install
     options:
+      site-name:{{site-name}}
+      db-name:{{db-name}}
+      db-user:{{db-user}}
+      db-pass:{{db-pass}}
+      db-type:mysql
+      db-prefix:
+      langcode:en
+      db-host:127.0.0.1
+      db-port:3306
+      site-mail:{{account-mail}}
+      account-name:{{account-name}}
+      account-mail:{{account-mail}}
+      account-pass:{{account-pass}}
       force: true
     arguments:
       profile: standard
