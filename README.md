@@ -9,4 +9,4 @@ It adds the following modules:
 * Token
 * Pathauto
 * Paragraphs
-
+* Simple XMl sitemap
