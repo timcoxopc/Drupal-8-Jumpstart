@@ -1,4 +1,4 @@
-# WORK IN PROGRESS - DO NOT USE - UNSECURE PERMISSIONS
+# WORK IN PROGRESS - DO NOT USE - INSECURE PERMISSIONS
 
 # Composer template for Jump Starting Drupal 8 projects
 This is a customised version of https://github.com/drupal-composer/drupal-project used to jumpstart Drupal 8 projects.
